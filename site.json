@@ -1,5 +1,5 @@
 {
-  "id": "#a2955fb7-c709-f61b-3f99-e7af7b72b683",
+  "id": "#b53c7c96-87ee-b313-92ae-1069f32cbb10",
   "title": "IST 402",
   "author": "EdTechJoker",
   "description": "Emerging Technology",
@@ -12,19 +12,19 @@
       "socialLink": "https://twitter.com/btopro"
     },
     "site": {
-      "name": "ist402",
-      "created": 1595451664658,
-      "updated": 1595451664658,
+      "name": "h11tyexample",
+      "created": 1595452810427,
+      "updated": 1595452810427,
       "git": {
         "autoPush": false,
         "branch": "master",
         "staticBranch": "gh-pages",
         "vendor": "github",
-        "publicRepoUrl": "https://github.com/btopro/ist402/blob/master/",
-        "url": "git@github.com:btopro/ist402.git"
+        "publicRepoUrl": "https://github.com/btopro/h11tyexample/blob/master/",
+        "url": "git@github.com:btopro/h11tyexample.git"
       },
       "version": "1.2.9-11ty",
-      "domain": "https://btopro.github.io/ist402",
+      "domain": "https://btopro.github.io/h11tyexample",
       "logo": "assets/images/photo-1497493292307-31c376b6e479.jpeg",
       "static": {
         "cdn": "build",
@@ -58,8 +58,8 @@
       "description": "Page 1",
       "parent": null,
       "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
+        "created": 1595452791,
+        "updated": 1595452791,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -81,8 +81,8 @@
       "description": "Should be last",
       "parent": null,
       "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
+        "created": 1595452791,
+        "updated": 1595452791,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -104,8 +104,8 @@
       "description": "Post 2",
       "parent": null,
       "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
+        "created": 1595452791,
+        "updated": 1595452791,
         "readtime": 19,
         "contentDetails": {},
         "files": [],
@@ -127,8 +127,8 @@
       "description": "Top of things",
       "parent": null,
       "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
+        "created": 1595452791,
+        "updated": 1595452791,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -142,40 +142,17 @@
       }
     },
     {
-      "id": "--content-other-things-index-md",
-      "indent": 0,
-      "location": "./pages/other-things/index.md",
-      "slug": "content/other-things/",
-      "order": 4,
-      "title": "Parent page",
-      "description": "Parent page",
-      "parent": null,
-      "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Parent page",
-        "banner": "/assets/images/photo-1498050108023-c5249f4df085.jpeg"
-      }
-    },
-    {
       "id": "--content-other-things-cool-stuff-md",
       "indent": 0,
       "location": "./pages/other-things/cool-stuff.md",
       "slug": "content/other-things/cool-stuff/",
-      "order": 5,
+      "order": 4,
       "title": "Cool Stuff",
       "description": "Cool Stuff",
       "parent": "--content-other-things-index-md",
       "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
+        "created": 1595452791,
+        "updated": 1595452791,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -184,6 +161,29 @@
         ],
         "layout": "content.liquid",
         "title": "Cool Stuff",
+        "banner": "/assets/images/photo-1498050108023-c5249f4df085.jpeg"
+      }
+    },
+    {
+      "id": "--content-other-things-index-md",
+      "indent": 0,
+      "location": "./pages/other-things/index.md",
+      "slug": "content/other-things/",
+      "order": 5,
+      "title": "Parent page",
+      "description": "Parent page",
+      "parent": null,
+      "metadata": {
+        "created": 1595452791,
+        "updated": 1595452791,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Parent page",
         "banner": "/assets/images/photo-1498050108023-c5249f4df085.jpeg"
       }
     },
@@ -197,8 +197,8 @@
       "description": "Yes...more",
       "parent": "--content-other-things-index-md",
       "metadata": {
-        "created": 1595451640,
-        "updated": 1595451640,
+        "created": 1595452791,
+        "updated": 1595452791,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

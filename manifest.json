@@ -46,12 +46,12 @@
       "density": "4.0"
     }
   ],
-  "scope": "/ist402/",
-  "start_url": "/ist402/",
+  "scope": "/h11tyexample/",
+  "start_url": "/h11tyexample/",
   "display": "standalone",
   "theme_color": "#FF5500",
   "background_color": "#FF5500",
-  "url": "https://btopro.github.io/ist402",
+  "url": "https://btopro.github.io/h11tyexample",
   "lang": "en",
   "screenshots": [],
   "orientation": "portrait"
