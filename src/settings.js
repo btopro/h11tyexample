@@ -33,7 +33,7 @@ module.exports = () => {
     var gitOrg = "btopro";
     // project name
     // github.com/btopro/WHATEVER
-    var gitProject = "ist402";
+    var gitProject = "h11tyexample";
     // URL, default for local testing
     var url = "https://localhost:8000";
     // current year if desired
@@ -71,7 +71,7 @@ module.exports = () => {
     return {
         // this is where most things you'll want to change reside
         // folder / machine name to represent your site
-        siteMachineName: "ist402",
+        siteMachineName: "h11tyexample",
         // Your name as referenced as the author in files
         siteAuthorName: "EdTechJoker",
         // email address, optional
